@@ -1,35 +1,20 @@
 <h1 align="center">Hi 👋, I'm $$^ù2é$£ù$é</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Secret #Soon](https://guns.lol/3xroot)
+- 🔭 I’m currently working on [Secret](https://guns.lol/3xroot)
+
+- 🌱 I’m currently learning **User**
 
 - 👯 I’m looking to collaborate on **Discord Developers**
 
+- 🤝 I’m looking for help with **User**
+
+- 💬 Ask me about **User**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
 <a href="https://dev.to/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://twitter.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://fb.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://instagram.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://medium.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
-<a href="/https://discordapp.com/users/1300554971993079870" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://discordapp.com/users/1300554971993079870" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
