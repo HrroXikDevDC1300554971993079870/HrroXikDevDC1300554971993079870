@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm $$^ù2é$£ù$é</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from £*£^ùù$$¨ù</h3>
 
 - 🔭 I’m currently working on [Secret](https://guns.lol/3xroot)
 
